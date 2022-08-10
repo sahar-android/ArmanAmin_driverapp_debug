@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "158572245438",
+    "firebase_url": "https://kubinga-app.firebaseio.com",
+    "project_id": "kubinga-app",
+    "storage_bucket": "kubinga-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158572245438:android:f1d133a0dd1227dd",
+        "android_client_info": {
+          "package_name": "com.kubinga.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158572245438-ke5cjkuf30kvkl8s6jcb3mh6aja1vr4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.driver",
+            "certificate_hash": "a264c1d4e52520b8bb32ef19fe932befc898bcbb"
+          }
+        },
+        {
+          "client_id": "158572245438-2eau8gt6pfsntm1pf3gsq56verkbs9ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.driver",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "158572245438-tndf4gdfdfgcl8sh5fecp67s0ne3qjbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.driver",
+            "certificate_hash": "f77a3f7b624e4d099f95f3d65ee0c1bd47d8d920"
+          }
+        },
+        {
+          "client_id": "158572245438-8n78vbci4la436mtn2jet4hk9oq4qdpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.driver",
+            "certificate_hash": "cf36b56e6676225aec2770071b80eef28f05e43e"
+          }
+        },
+        {
+          "client_id": "158572245438-25g5aq3jgkdg9qa77f1hedvvc9412fe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2AJG9Ck0GCElkSbzCIuqT2Fcx2eqikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158572245438-ko5vr1ercqqm7conub27ikomv3eafukp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158572245438-oac8tbckn157lemqb7gndhjejrtu61ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kubinga.kiosk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158572245438:android:62aea66e0d114956f649ef",
+        "android_client_info": {
+          "package_name": "com.kubinga.kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158572245438-ra1fgf9idfppj95r3hao57397s4ipbfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.kiosk",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "158572245438-ici7kodciekj3p24ra42s4957i23vgcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.kiosk",
+            "certificate_hash": "f77a3f7b624e4d099f95f3d65ee0c1bd47d8d920"
+          }
+        },
+        {
+          "client_id": "158572245438-25g5aq3jgkdg9qa77f1hedvvc9412fe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2AJG9Ck0GCElkSbzCIuqT2Fcx2eqikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158572245438-ko5vr1ercqqm7conub27ikomv3eafukp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158572245438-oac8tbckn157lemqb7gndhjejrtu61ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kubinga.kiosk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158572245438:android:4deb084a88ffafbd",
+        "android_client_info": {
+          "package_name": "com.kubinga.lojista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158572245438-neefs30l9dud83t8rscjn4kmt2cn2f2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.lojista",
+            "certificate_hash": "f77a3f7b624e4d099f95f3d65ee0c1bd47d8d920"
+          }
+        },
+        {
+          "client_id": "158572245438-8l610cnhmfknvin90vbgkkbu1b91vftd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.lojista",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "158572245438-25g5aq3jgkdg9qa77f1hedvvc9412fe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2AJG9Ck0GCElkSbzCIuqT2Fcx2eqikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158572245438-ko5vr1ercqqm7conub27ikomv3eafukp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158572245438-oac8tbckn157lemqb7gndhjejrtu61ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kubinga.kiosk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158572245438:android:1405385aa558f1d3",
+        "android_client_info": {
+          "package_name": "com.kubinga.passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158572245438-k9mpkb806l7mdvd0b480u0leumso0b5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.passenger",
+            "certificate_hash": "a264c1d4e52520b8bb32ef19fe932befc898bcbb"
+          }
+        },
+        {
+          "client_id": "158572245438-a8o5dr44tmec9i6nlpdeto6dj0ds50k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.passenger",
+            "certificate_hash": "09162e62458fd9d838ce4c3ff3708e5f47d7597a"
+          }
+        },
+        {
+          "client_id": "158572245438-2rb0uh2n2ipe5612oh82b6dgkms0d6da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.passenger",
+            "certificate_hash": "f77a3f7b624e4d099f95f3d65ee0c1bd47d8d920"
+          }
+        },
+        {
+          "client_id": "158572245438-f4g11vto2is94ohsb53gk7pbpfco9e9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubinga.passenger",
+            "certificate_hash": "cf36b56e6676225aec2770071b80eef28f05e43e"
+          }
+        },
+        {
+          "client_id": "158572245438-25g5aq3jgkdg9qa77f1hedvvc9412fe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2AJG9Ck0GCElkSbzCIuqT2Fcx2eqikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158572245438-ko5vr1ercqqm7conub27ikomv3eafukp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158572245438-oac8tbckn157lemqb7gndhjejrtu61ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kubinga.kiosk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
